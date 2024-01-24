@@ -1,0 +1,18 @@
+{
+  "name": "amznmonitor",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "amzn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "got": "^14.0.0",
+    "node-html-parser": "^6.1.12",
+    "prompt-sync": "^4.2.0"
+  }
+}
